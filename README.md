@@ -1,2 +1,17 @@
-# smart-quiz-app-python
-Developed an interactive quiz application using Python with features like randomized questions, timer-based responses, and real-time score calculation. The program uses loops, conditional logic, and basic time functions to create an engaging command-line user experience.
+# Smart Quiz App (Python)
+
+An interactive quiz application built using Python.
+
+## Features
+- Multiple choice questions
+- Randomized question order
+- Timer-based answering
+- Score and percentage calculation
+
+## Technologies Used
+- Python
+
+## How to Run
+1. Run the Python file
+2. Answer the questions
+3. View your score and performance
